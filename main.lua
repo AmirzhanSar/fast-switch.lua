@@ -1,5 +1,3 @@
-
-
 local group = ui.find("Aimbot", "Anti Aim", "Fake Lag")
 local fast_switch = group:switch("\aADDA51FFFast Switch", false)
 
