@@ -17,7 +17,7 @@ This Lua script is designed for Neverlose (CS:GO cheat API) and implements a Fas
 
 - apply_tickbase(cmd, ticks_to_shift) — shifts tickbase for proper command execution
 
-## Event hooks:
+## Event Hooks:
 - events.aim_fire — records shot tick
 - events.createmove — main fast switch logic
 - events.shutdown — resets weapon actions on exit
